@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1718178802 source:c:\users\granelo\documents\mes cours\l2\c\langage c\dacty\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+
